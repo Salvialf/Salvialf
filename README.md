@@ -4,8 +4,8 @@ Self-taught developer, core developer at [Jeedom](https://www.jeedom.com), the F
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Salvialf&theme=dark&hide_border=true&exclude_days=Sat,Sun&timezone=Europe/Paris" />
-    <img src="https://streak-stats.demolab.com/?user=Salvialf&hide_border=true&exclude_days=Sat,Sun&timezone=Europe/Paris" alt="GitHub streak stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Salvialf&theme=dark&hide_border=true&exclude_days=Sat%2CSun&timezone=Europe/Paris" />
+    <img src="https://streak-stats.demolab.com/?user=Salvialf&hide_border=true&exclude_days=Sat%2CSun&timezone=Europe/Paris" alt="GitHub streak stats" />
   </picture>
 </p>
 
