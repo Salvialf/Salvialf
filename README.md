@@ -15,8 +15,11 @@ Self-taught developer, core developer at [Jeedom](https://www.jeedom.com), the F
 - **Plugins**: 1,800+ commits across 85+ plugins.
   - Author of several plugins, including [OCPP](https://github.com/jeedom/plugin-ocpp), [Enedis](https://github.com/jeedom/plugin-enedis), [jeeMeter](https://github.com/jeedom/plugin-jeeMeter), [Teleinfo PME-PMI](https://github.com/jeedom/plugin-teleinfoPMEPMI), [TP-Link SMS](https://github.com/jeedom/plugin-tplinksms) and [vlx2mqtt](https://github.com/jeedom/plugin-vlx2mqtt).
   - Major reworks of others, such as [Jeeasy](https://github.com/jeedom/plugin-jeeasy) (setup wizard), [WES Control](https://github.com/jeedom/plugin-wescontrol) and [Z-Wave JS](https://github.com/jeedom/plugin-zwavejs).
-  - Several private professional plugins as well.
-- **Docs, tooling and infrastructure**: 600+ commits on the [documentation](https://github.com/jeedom/documentations), the [jeetranslate](https://github.com/jeedom/jeetranslate) translation automation, shared [CI workflows](https://github.com/jeedom/workflows) and internal infrastructure (box image builds, Market, cloud services).
+  - Some private professional plugins as well.
+- **System images**: Debian images with Jeedom preinstalled.
+  - arm64: built by script, with a mainline kernel, and a U-Boot boot script that rewrites the whole system from a USB drive or from the boot disk. Used for field updates and factory installs.
+  - x86-64: a bootable installer image built with live-build, with custom boot menus and an unattended install mode driven by a preseed file.
+- **Docs, tooling and infrastructure**: 600+ commits on the [documentation](https://github.com/jeedom/documentations), the [jeetranslate](https://github.com/jeedom/jeetranslate) translation automation, shared [CI workflows](https://github.com/jeedom/workflows) and internal infrastructure (Market, cloud services).
 
 ## Personal projects
 
